@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "",
+    "messaging_url": "dev.clearblade.com:1883",
+    "name": "testCbDevKit",
+    "platform_url": "https://dev.clearblade.com",
+    "system_key": "c2eeb0e40bfe9eddbdc6fb829d10",
+    "system_secret": "C2EEB0E40B8AFD84A3F6BEFDE49401"
+}
